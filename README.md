@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F7AC&center=true&random=false&width=435&lines=Welcome+to+My+Github)](https://git.io/typing-svg)
+<h1 align="center">
+  <span style="color: aqua">Hi there, I'm Yeachan</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+</h1>
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
