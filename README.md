@@ -34,6 +34,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/intelliJ-2C2C32.svg?style=for-the-badge&logo=intelliJIDEA&logoColor=22ABF3" />&nbsp
 <img src="https://img.shields.io/badge/mac%20os-2C2C32.svg?style=for-the-badge&logo=macos&logoColor=22ABF3" />&nbsp
+<img src="https://img.shields.io/badge/windows-2C2C32.svg?style=for-the-badge&logo=windows&logoColor=22ABF3" />&nbsp
 </div>
 
 <h3 align="center">📫 Mail 📫</h3>
